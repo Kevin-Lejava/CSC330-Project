@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Chess src</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Chess/ChessGUI.java</name>
+			<type>1</type>
+			<location>C:/Users/Kevin/Programming/Java Eclipse/Chess src/src/Chess/TestGUI.java</location>
+		</link>
+		<link>
+			<name>src/Chess/GameState.java</name>
+			<type>1</type>
+			<location>C:/Users/Kevin/Programming/Java Eclipse/Chess src/src/Chess/GameState.java</location>
+		</link>
+		<link>
+			<name>src/Chess/PNG</name>
+			<type>2</type>
+			<location>C:/Users/Kevin/Programming/Java Eclipse/Chess src/src/Chess/PNG</location>
+		</link>
+		<link>
+			<name>src/Chess/PieceColor.java</name>
+			<type>1</type>
+			<location>C:/Users/Kevin/Programming/Java Eclipse/Chess src/src/Chess/PieceColor.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
